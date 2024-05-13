@@ -1,3 +1,4 @@
+
 module ripple_carry_counter(q, clk, reset);
 output [3:0] q;
 input clk, reset;
@@ -25,4 +26,3 @@ q = 1'b0;
 else
 q = d;
 endmodule
-
