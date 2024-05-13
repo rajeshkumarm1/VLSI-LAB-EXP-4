@@ -245,5 +245,3 @@ endmodule
 
 RESULT:
 Hence The simulation and synthesis of SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using Vivado 2023 is done and output verified successfully.
-
-
